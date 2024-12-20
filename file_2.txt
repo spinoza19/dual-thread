@@ -1,4 +1,0 @@
-# dual-thread
-Commit 3
-Date: 2024-07-01T09:52:05Z
-Fix edge case
