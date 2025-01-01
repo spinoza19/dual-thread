@@ -1,4 +1,0 @@
-# dual-thread
-Commit 4
-Date: 2024-12-20T04:46:19Z
-Refactor helpers
